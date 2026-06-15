@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 ## Blog
 
-<a href="https://xoxoisme.github.io">
-<img src="https://img.shields.io/badge/GitHub_Blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 👈 <img src="https://img.shields.io/badge/Click_Me!-FF6B6B?style=for-the-badge"/>
+[My Blog](https://xoxoisme.github.io/)
 
 ## Stat
 
