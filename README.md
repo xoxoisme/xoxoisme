@@ -1,5 +1,5 @@
 ## Hi, there!👋
----
+
 <!--
 **xoxoisme/xoxoisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Blog
 
 <a href="https://xoxoisme.github.io">
-<img src="https://img.shields.io/badge/GitHub_Blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub_Blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a> 👈 <img src="https://img.shields.io/badge/Click_Me!-FF6B6B?style=for-the-badge"/>
 
 ## Stat
 
