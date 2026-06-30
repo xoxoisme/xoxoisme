@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ## Stat
 
-![xoxoisme's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoxoisme&show_icons=true&theme=highcontrast)
+[![xoxoisme's GitHub stats](https://github-stats-extended.vercel.app/api?username=xoxoisme&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+
+
 
 ## Mindset
 
